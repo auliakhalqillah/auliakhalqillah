@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :sunglasses:
+
+Wellcome to my GitHub. Before you check out my repository, let me introduce myself. My name is Aulia Khalqillah.
 
 <!--
 **auliakhalqillah/auliakhalqillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
