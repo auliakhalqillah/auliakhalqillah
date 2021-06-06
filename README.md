@@ -1,6 +1,6 @@
-### Hi :hand: <img width=20 height=20 src="https://www.svgrepo.com/show/242361/indonesia.svg">
+# Hi :hand: <img width=20 height=20 src="https://www.svgrepo.com/show/242361/indonesia.svg">
 
-Wellcome to my GitHub.
+## Wellcome to my GitHub!!!
 
 Before you check out my repository, let me introduce myself. My name is Aulia Khalqillah. I graduated from Physics Department, Universitas Syiah Kuala. My field is Computational Geophysics. I have been published some articles:
 
@@ -14,7 +14,7 @@ I provide some numerical codes and machine learning codes that are applied in so
 <!-- Table-->
 |Matlab|Python|Fortran|
 |:---:|:---:|:---:|
-|[<img width=100, height=100 src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png">](https://www.mathworks.com/products/matlab.html)|[<img width=300, height=100, src="https://www.python.org/static/community_logos/python-logo-generic.svg">](https://www.python.org/)|[<img width=100, height=100, src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/383px-Fortran_logo.svg.png">](https://fortran-lang.org/)|
+|[<img width=100, height=100 src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png">](https://www.mathworks.com/products/matlab.html)|[<img width=300, height=90, src="https://www.python.org/static/community_logos/python-logo-generic.svg">](https://www.python.org/)|[<img width=100, height=100, src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/383px-Fortran_logo.svg.png">](https://fortran-lang.org/)|
 
 ### For More Information
 [<img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">](mailto:auliakhalqillah.mail@gmail.com) &emsp; [<img width=50, height=50, src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/aulia-khalqillah-b6571315b/) &emsp; [<img width=100, height=50, src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg">](https://www.auliakhalqillah.com)
