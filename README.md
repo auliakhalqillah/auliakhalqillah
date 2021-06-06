@@ -1,4 +1,4 @@
-### Hi there :sunglasses:
+### Hi :hand: <img width=20 height=20 src="https://www.svgrepo.com/show/242361/indonesia.svg">
 
 Wellcome to my GitHub.
 
@@ -9,7 +9,7 @@ Before you check out my repository, let me introduce myself. My name is Aulia Kh
     + The SVIM program has been patented by [Direktorat Jenderal Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/detail/EC00202122057?type=copyright&keyword=SVIM)
 3. [Estimation of Shear Wave Velocity of Darul Imarah District, Aceh Besar, Indonesia by Using 1D HVSR Inversion, 2020](https://iopscience.iop.org/article/10.1088/1757-899X/846/1/012068/meta) _as second author_
 
-I provide some numerical codes and machine learning code that are applied in some programming languages such as 
+I provide some numerical codes and machine learning codes that are applied in some programming languages such as 
 
 <!-- Table-->
 |Matlab|Python|Fortran|
@@ -17,7 +17,7 @@ I provide some numerical codes and machine learning code that are applied in som
 |[<img width=100, height=100 src="https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png">](https://www.mathworks.com/products/matlab.html)|[<img width=300, height=100, src="https://www.python.org/static/community_logos/python-logo-generic.svg">](https://www.python.org/)|[<img width=100, height=100, src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/383px-Fortran_logo.svg.png">](https://fortran-lang.org/)|
 
 ### For More Information
-[<img width=50, height=50, src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">](auliakhalqillah.mail@gmail.com) [<img width=100, height=50, src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg">](auliakhalqillah.com) [<img width=50, height=50, src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/aulia-khalqillah-b6571315b/)
+[<img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">](mailto:auliakhalqillah.mail@gmail.com) &emsp; [<img width=50, height=50, src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/aulia-khalqillah-b6571315b/) &emsp; [<img width=100, height=50, src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg">](https://www.auliakhalqillah.com)
 
 
 <!--
