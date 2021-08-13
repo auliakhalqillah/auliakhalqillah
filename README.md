@@ -2,7 +2,7 @@
 
 ## Wellcome to my GitHub!!!
 
-Before you check out my repositories, let me introduce myself. My name is Aulia Khalqillah. I graduated from Physics Department, Universitas Syiah Kuala, Banda Aceh. My field is Computational Geophysics, specific to Computational Seismology. I have published some articles:
+Before you check out my repositories, let me introduce myself. My name is Aulia Khalqillah. I graduated from Physics Department as Master of Science, Universitas Syiah Kuala, Banda Aceh. My field is Computational Geophysics, specific to Computational Seismology. I have published some articles:
 
 1. [A GUI based automatic detection of seismic P-wave arrivals by using Short Term Average/Long Term Average (STA/LTA) method, 2018](https://iopscience.iop.org/article/10.1088/1742-6596/1116/3/032014)
 2. [SVIM: A Program for Seismic Vulnerability Index Determination and HVSR Data Processing, 2019](https://iopscience.iop.org/article/10.1088/1755-1315/273/1/012016)
