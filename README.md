@@ -12,8 +12,9 @@ Before you check out my repositories, let me introduce myself. My name is Aulia 
 [<img width=50, height=50, src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/383px-Fortran_logo.svg.png">](https://fortran-lang.org/) &emsp;
 [<img width=100, height=50, src="https://www.generic-mapping-tools.org/_static/gmt-logo.png">](https://www.generic-mapping-tools.org/) &emsp;
 
-### Course
-[<img width=60 height=20 src="https://academy.dqlab.id/assets/images/logo-dqlab.png">](https://academy.dqlab.id/)
+### Courses
+[<img width=60 height=20 src="https://academy.dqlab.id/assets/images/logo-dqlab.png">](https://academy.dqlab.id/) &emsp;
+[<img width=60 height=20 src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg">](https://www.udemy.com/certificate/UC-ee98538a-0bed-424e-8f9c-83a97d672d23/)
 
 ### For More Information
 [<img width=25 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">](mailto:auliakhalqillah.mail@gmail.com) &emsp; [<img width=25, height=50, src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">](https://www.linkedin.com/in/aulia-khalqillah-b6571315b/) &emsp; [<img width=100 height=50 src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg">](https://www.auliakhalqillah.com) &emsp;[<img width=100 height=25 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg">](https://www.youtube.com/c/AuliaKhalqillah/videos)
