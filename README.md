@@ -5,7 +5,7 @@ Hi, My name is Aulia Khalqillah. Thank you for visiting and searching around my 
 ## Expertise
 1. Computational Seismology
 2. Seismic Hazard and Risk Analysis
-3. Microzonation
+3. Microtremor data acquisition and data processing
 
 ## Further Information
 Google Scholar: https://scholar.google.com/citations?user=8YTKPI0AAAAJ&hl=en
