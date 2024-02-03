@@ -10,9 +10,13 @@ Hi, My name is Aulia Khalqillah. Thank you for visiting and searching around my 
 ## Further Information
 Google Scholar: https://scholar.google.com/citations?user=8YTKPI0AAAAJ&hl=en
 
-e-mail : auliakhalqillah@usk.ac.id or auliakhalqillah.mail@gmail.com
+e-mail : 
 
-blog : [auliakhalqillah.github.io](auliakhalqillah.github.io)
+auliakhalqillah@usk.ac.id or auliakhalqillah.mail@gmail.com
+
+blog : 
+
+[auliakhalqillah.github.io](auliakhalqillah.github.io)
 
 <!--
 **auliakhalqillah/auliakhalqillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
