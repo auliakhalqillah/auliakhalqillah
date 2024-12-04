@@ -8,8 +8,7 @@ Hi, My name is Aulia Khalqillah. Thank you for visiting and searching around my 
 3. Microtremor data acquisition and data processing
 
 ## Further Information
-Google Scholar: https://scholar.google.com/citations?user=8YTKPI0AAAAJ&hl=en
-
+- Google Scholar: https://scholar.google.com/citations?user=8YTKPI0AAAAJ&hl=en
 - e-mail : auliakhalqillah@usk.ac.id or auliakhalqillah.mail@gmail.com
 - blog : [auliakhalqillah.com](auliakhalqillah.com)
 
